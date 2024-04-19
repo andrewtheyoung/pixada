@@ -15,7 +15,7 @@ Pixada is a powerful pixel art editor designed for creating stunning pixel sprit
 
 ## Getting Started
 
-To get started with Pixada, simply download the latest release for your operating system from the [Releases](https://github.com/yourusername/pixada/releases) page.
+To get started with Pixada, simply download the latest release for your operating system from the [Releases](https://github.com/andrewtheyoung/pixada/releases) page.
 
 ## Installation
 
@@ -30,7 +30,7 @@ To get started with Pixada, simply download the latest release for your operatin
 - **Color Palette:** Choose from a wide range of colors or create your own custom palette.
 - **Exporting Artwork:** Export your pixel art in PNG, GIF, or other supported formats.
 
-For more detailed instructions on how to use Pixada, refer to the [Documentation](docs/README.md).
+For more detailed instructions on how to use Pixada, refer to the [Documentation](https://pixada.pp.ua).
 
 ## Contributing
 
