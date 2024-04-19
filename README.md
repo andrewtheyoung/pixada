@@ -1,4 +1,3 @@
-### Presenting...
 ![Pixada banner](banner.png)
 
 Pixada is a powerful pixel art editor designed for creating stunning pixel sprites and artwork with ease. Whether you're a seasoned pixel artist or just starting out, Pixada provides the tools you need to bring your imagination to life.
