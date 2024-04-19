@@ -2,10 +2,8 @@
 
 Pixada is a powerful pixel art editor designed for creating stunning pixel sprites and artwork with ease. Whether you're a seasoned pixel artist or just starting out, Pixada provides the tools you need to bring your imagination to life.
 
-![Pixada Screenshot](screenshot.png)
-
 ## Features
-
+[Pixada Screenshot](screenshot.png)
 - **Intuitive Interface:** Pixada's user-friendly interface makes it easy for anyone to jump in and start creating pixel art.
 - **Advanced Tools:** From pencil and brush tools to layers and color palettes, Pixada offers a comprehensive set of features for pixel art creation.
 - **Customizable Canvas:** Customize your canvas size and grid settings to fit your project's needs.
