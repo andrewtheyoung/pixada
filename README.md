@@ -1,3 +1,4 @@
+###### Welcome to
 ![Pixada banner](banner.png)
 
 Pixada is a powerful pixel art editor designed for creating stunning pixel sprites and artwork with ease. Whether you're a seasoned pixel artist or just starting out, Pixada provides the tools you need to bring your imagination to life.
@@ -45,3 +46,8 @@ Pixada was created by Andrew Young and is maintained by a community of contribut
 ## Support
 
 If you encounter any issues or have questions about Pixada, please don't hesitate to [contact us](mailto:andrew.young@ukr.net).
+
+---
+<p align="center" style="width: 100%;">
+<img width="90%" src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg">
+</p>
