@@ -1,0 +1,13 @@
+{
+    "platform": "linux64",
+    "jdk": "/usr/lib/jvm/default/",
+    "executable": "Pixada",
+    "classpath": [
+        "desktop/build/libs/desktop-1.0.jar"
+    ],
+    "mainclass": "pp.ua.lxchn1v1.pixada.DesktopLauncher",
+    "vmargs": [
+        "-Xmx1G"
+    ],
+    "output": "dist-linux"
+}
